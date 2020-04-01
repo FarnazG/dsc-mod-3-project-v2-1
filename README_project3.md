@@ -33,19 +33,19 @@ Build a classifier to predict whether a customer will ("soon") stop doing busine
 In this project, after preprocessing steps, 4 differently preprocessed data was prepared:
 
 data = original dataframe after:
-  1.dropping unnecessary features
-  2.features with multicollinearity 
-  3.binarizing categorical data
-  4.removing outliers
+* dropping unnecessary features
+* features with multicollinearity 
+* binarizing categorical data
+* removing outliers
 
 data1 = a copy of the original dataframe data in which:
-  1.Log transfer was applied on skewed distributions.
+* log transfer was applied on skewed distributions.
   
 data2 = a copy of the original dataframe data in which:
-  1.features were scaled
+* features were scaled
 
 data3 = a copy of the original dataframe data in which:
-  1.features were log-transfered and scaled.
+* features were log-transfered and scaled.
 
 
 ### 2. Modeling 
@@ -54,7 +54,7 @@ data3 = a copy of the original dataframe data in which:
 * Splitting train and test data
 * Working on rebalancing the class imbalancement for each dataset
 
-![alt text](https://github.com/FarnazG/dsc-mod-3-project-v21/blob/master/project_3_images/class_imbalancement.png)
+![alt text](https://github.com/FarnazG/dsc-mod-3-project-v2-1/blob/master/project_3_images/class_imbalancement.png)
 
 * Building the basic model(s)(Logistic Regression) for each dataset
 * Creating confusion matrix and obtaining classification report for each dataset
