@@ -11,9 +11,13 @@ Build a classifier to predict whether a customer will ("soon") stop doing busine
 ## Outline:
 
 1.Data cleaning and preprocessing
+
 2.Modeling
+
 3.Evaluating and choosing the final model
+
 4.Recommendations
+
 5.Future works
 
 
