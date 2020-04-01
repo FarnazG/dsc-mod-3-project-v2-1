@@ -76,7 +76,7 @@ At this step we compared and pick the best dataset to work with
 * Exploring a few models considering different features and hyperparameters
 * Visualizing scatter plots of each feature with the probabilities of leaving
 
-![alt text](https://github.com/FarnazG/dsc-mod3projectv21/blob/master/project_3_images/customer_service_calls.png)
+![alt text](https://github.com/FarnazG/dsc-mod-3-project-v2-1/blob/master/project_3_images/customer_service_calls.png)
 
 * Choosing the best model
 * Evaluating the financial impact of the final model prediction on the SyriaTel company
